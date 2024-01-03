@@ -9,3 +9,4 @@ diagonal1 = int(input("enter diagonal1:"))
 diagonal2 = int(input("enter diagonal2"))
 result = (diagonal1 * diagonal2) / 2
 print(result)
+print(gbgb)
